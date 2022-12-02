@@ -1,0 +1,16 @@
+{
+    "name": "itsromack/sqlbuilder",
+    "description": "SQL Query Builder using Builder Design Pattern",
+    "autoload": {
+        "psr-4": {
+            "DesignPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Romack Natividad",
+            "email": "romacknatividad@gmail.com"
+        }
+    ],
+    "require": {}
+}
